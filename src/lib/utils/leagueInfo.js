@@ -10,12 +10,10 @@ export const homepageText = `
   <p>Welcome back, degenerates. The long, lonely offseason is over. The excuses are loaded, the rosters are locked, and the smell of bad trade offers is already in the air. It’s time for another season of Final Fantasy Football — where legends are made, friendships are tested, and someone inevitably blows up their own lineup at 12:59 p.m. on Sunday.</p>
   <p>Last year gave us everything: improbable comebacks, waiver wire miracles, and the Magic City Mages hoisting the trophy. But winning isn’t a sometime thing; it’s an all the time thing. The slate is clean, the standings are 0 0, and every one of you thinks you’re the genius who’s going to win it all. Spoiler: you’re not. Well… most of you aren’t.</p>
   <p>This league is stacked. We’ve got rookies ready to break out, vets still balling, and at least one manager who will forget to set their lineup because they were “just checking their flex spot.” Today you do what others won’t, so tomorrow you can accomplish what others can’t. And remember — lineup decisions are like children: you love them all, but some weeks you just know which one’s going to disappoint you.</p>
-  <p>So here’s the deal: bring your best. Bring your boldest waiver bids, your most shameless trade pitches, and your most creative smack talk. It’s not whether you win or lose, it’s how you trash talk that matters. And if you find yourself pulling a true last minute panic swap, just make sure it works out better for you than it usually does for the guy who swears he “had a feeling.”</p>
+  <p>So here’s the deal: bring your best. Bring your boldest waiver bids, your most shameless trade pitches, and your most creative smack talk. It’s not whether you win or lose, it’s how you trash-talk that matters. And if you find yourself pulling a true last-minute panic swap, just make sure it works out better for you than it usually does for the guy who swears he “had a feeling.”</p>
   <p>This season will have heartbreakers, miracle Mondays, and at least one matchup decided by a kicker you didn’t even know was in the league. Which is saying a lot because we don’t even play kickers. That’s the beauty of it. Somewhere out there, the Sacko is already whispering someone’s name.</p>
   <p>Here’s to 2025 — may your studs stay healthy, your sleepers wake up, and your Monday nights be filled with hope instead of regret. Now get out there and make some bad decisions look like genius moves.</p>
-  <p>Sincerely,
-Edward Martinez
-Commissioner, Final Fantasy Football</p>
+  <p>Sincerely, Edward Martinez, Commissioner, Final Fantasy Football</p>
 `;
 
 /*   STEP 3   */
@@ -25,7 +23,7 @@ If you're having trouble, reference the Training Wheels' Manager Section
 https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding-managers-and-changing-the-homepage-text
 */
 
-// To omit an optional field, set it's value to null
+// To omit an optional field, set its value to null
 
 export const managers = [
     // {
@@ -127,4 +125,3 @@ export const managers = [
     //   "tradingScale": 10, // 1 - 10 (optional)
     //   "preferredContact": "Text",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     // },
-    
