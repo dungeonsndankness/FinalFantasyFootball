@@ -12,12 +12,11 @@ export const homepageText = `
   <p>This league is stacked. We’ve got rookies ready to break out, vets still balling, and at least one manager who will forget to set their lineup because they were “just checking their flex spot.” Today you do what others won’t, so tomorrow you can accomplish what others can’t. And remember — lineup decisions are like children: you love them all, but some weeks you just know which one’s going to disappoint you.</p>
   <p>So here’s the deal: bring your best. Bring your boldest waiver bids, your most shameless trade pitches, and your most creative smack talk. It’s not whether you win or lose, it’s how you trash talk that matters. And if you find yourself pulling a true last minute panic swap, just make sure it works out better for you than it usually does for the guy who swears he “had a feeling.”</p>
   <p>This season will have heartbreakers, miracle Mondays, and at least one matchup decided by a kicker you didn’t even know was in the league. Which is saying a lot because we don’t even play kickers. That’s the beauty of it. Somewhere out there, the Sacko is already whispering someone’s name.</p>
-  <p>Here’s to 2025 — may your studs stay healthy, your sleepers wake up, and your Monday nights be filled with hope instead of regret. Now get out there and make some bad decisions look like genius moves.
-Sincerely,
+  <p>Here’s to 2025 — may your studs stay healthy, your sleepers wake up, and your Monday nights be filled with hope instead of regret. Now get out there and make some bad decisions look like genius moves.</p>
+  <p>Sincerely,
 Edward Martinez
-Commissioner, Final Fantasy Football
-</p>
-`;
+Commissioner, Final Fantasy Football</p>
+;
 
 /*   STEP 3   */
 /*
