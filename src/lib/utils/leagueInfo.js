@@ -16,7 +16,7 @@ export const homepageText = `
   <p>Sincerely,
 Edward Martinez
 Commissioner, Final Fantasy Football</p>
-;
+`;
 
 /*   STEP 3   */
 /*
